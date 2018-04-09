@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Budget Overview</string>
+    <string name="tab_text_1">DEPTS</string>
+    <string name="tab_text_2">HOME</string>
+    <string name="tab_text_3">TRANSAKT</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="your_budget">Your Budget</string>
+    <string name="new_budget">New Budget:</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_transakt">TransaktActivity</string>
+    <string name="title_activity_add_dept">AddDeptActivity</string>
+    <string name="title_activity_add_transakt">AddTransaktActivity</string>
+    <string name="title_activity_edit_budget">EditBudgetActivity</string>
+    <string name="edit">EDIT</string>
+    <string name="old_budget">Old Budget:</string>
+    <string name="get">get</string>
+    <string name="give">give</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="addDept_titel">Add new Dept</string>
+    <string name="euro">€</string>
+    <string name="amount">Amount</string>
+    <string name="friend">Friend</string>
+    <string name="name">Name</string>
+    <string name="addTransactions">Add new Transaction</string>
+    <string name="spent">spent</string>
+    <string name="getMoney">Your friends have to give you:</string>
+    <string name="giveMoney">You have to give your friends:</string>
+    <string name="reason">Reason</string>
+</resources>
